@@ -3,12 +3,13 @@ package leetcode.middle.dp;/*
  * @Param
  */
 
-import java.util.Scanner;
+import java.util.*;
 
 /**
  * 给你一个字符串 s，找到 s 中最长的回文子串。
  */
 public class Leetcode5 {
+
     /**
      * 方法二：动态规划
      */

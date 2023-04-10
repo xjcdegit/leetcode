@@ -19,4 +19,6 @@ public class Leetcode2357 {
         }
         return num;
     }
+
+
 }
